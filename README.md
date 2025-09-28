@@ -1,16 +1,66 @@
-## Hi there 👋
+# 👋 Hi there, I'm Josiah Mutie Suku  
 
-<!--
-**Mutie886/Mutie886** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Banner](https://github.com/Mutie886/data-analyst-notebook/blob/main/dataimage.jpg)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me  
+
+I'm **Josiah Mutie Suku**, a **Data Science enthusiast** with a strong academic foundation:  
+🎓 **MSc** in Mathematical Sciences (AIMS)  
+🎓 **BSc** in Data Science (Meru University of Science and Technology)  
+
+I specialize in **data analysis**, **machine learning**, and **data visualization**, using tools such as:  
+- 🐍 Python  
+- 📊 Power BI  
+- 📑 Excel  
+
+💡 My passion lies in **leveraging data-driven insights** to solve real-world problems while continuously learning and expanding my skill set.  
+
+---
+
+## 🛠️ Skills  
+
+### 🔹 Programming & Data Science  
+- Python (Pandas, NumPy, Matplotlib, Scikit-learn)  
+- SQL  
+
+### 🔹 Visualization & Analytics  
+- Power BI  
+- Excel  
+- Matplotlib & Seaborn  
+
+### 🔹 Machine Learning  
+- Regression & Classification Models  
+- Time Series Forecasting (ARIMA, Prophet)  
+- Model Evaluation & Deployment  
+
+---
+
+## 📈 Featured Projects  
+
+| Project | Description | Tools |
+|---------|-------------|-------|
+| [📢 Advertisement Model (Logistic Regression)](https://github.com/Mutie886/data-analyst-notebook/blob/main/Advertisement_model_using_Logistic_Regression__Project.ipynb) | Built a logistic regression model to predict advertisement click-through behavior. | Python, Pandas, Scikit-learn |
+| [🔍 Classification Model (KNN)](https://github.com/Mutie886/data-analyst-notebook/blob/main/Classification_model_using_KNN.ipynb) | Implemented K-Nearest Neighbors algorithm for classification tasks. | Python, Pandas, Scikit-learn |
+| [🛒 E-commerce Customers Prediction (Linear Regression)](https://github.com/Mutie886/data-analyst-notebook/blob/main/EcommerceCustomers_Prediction_model_using_LinearRegression_project.ipynb) | Developed a linear regression model to predict e-commerce customer spending. | Python, Pandas, Scikit-learn |
+| [🏦 Loan Prediction Model (Random Forest & Decision Tree)](https://github.com/Mutie886/data-analyst-notebook/blob/main/Loan_pridictions_model_using_Random_Forest_and_Decision_Tree_Project.ipynb) | Applied Decision Trees and Random Forest to predict loan eligibility. | Python, Scikit-learn |
+| [🔗 Data Merging, Joining & Concatenation](https://github.com/Mutie886/data-analyst-notebook/blob/main/MergingJoiningandConcatenating.ipynb) | Demonstrated techniques to merge, join, and concatenate datasets in Python. | Python, Pandas |
+
+
+## ✨ Fun Touch  
+
+![Coding Gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)  
+
+*"Turning data into stories and solutions."*  
+
+---
+
+## 📬 Connect with Me  
+
+- 💼 [LinkedIn](www.linkedin.com/in/josia-mutie-350a19210)    
+- 📧 Email: josiahsuku886@gmail.com  
+
+---
+
+⭐️ From [Josiah Mutie Suku](https://github.com/Mutie886)
