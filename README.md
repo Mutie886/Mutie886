@@ -1,10 +1,12 @@
-# 👋 Hi there, I'm Josiah Mutie Suku  
+👋 Hi there, I'm Josiah Mutie Suku
 
-![Profile Banner](https://github.com/Mutie886/data-analyst-notebook/blob/main/dataimage.jpg)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D26A&center=true&vCenter=true&width=435&lines=Data+Science+Enthusiast;Machine+Learning+Developer;Data+Visualization+Expert;Python+%7C+Power+BI+%7C+SQL;Turning+Data+Into+Solutions" alt="Typing SVG" />
+</p>
 
----
+## 🚀 About Me
+...
 
-## 🚀 About Me  
 
 I'm **Josiah Mutie Suku**, a **Data Science enthusiast** with a strong academic foundation:  
 🎓 **MSc** in Mathematical Sciences (AIMS)  
