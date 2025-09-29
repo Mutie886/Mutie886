@@ -62,7 +62,7 @@ I specialize in **data analysis**, **machine learning**, and **data visualizatio
 
 - 💼 [LinkedIn](www.linkedin.com/in/josia-mutie-350a19210)    
 - 📧 Email: josiahsuku886@gmail.com  
-
+- 💼 [Portfolio](https://mutie886.github.io/Portfolio_template/)    
 ---
 
 ⭐️ From [Josiah Mutie Suku](https://github.com/Mutie886)
